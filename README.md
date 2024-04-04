@@ -8,6 +8,9 @@ OCR systems have a wide range of applications, including document digitization, 
 
 ## Convolutional Neural Networks (CNN) — Architecture Explained
 ![Alt text](https://miro.medium.com/v2/resize:fit:750/format:webp/0*vb72NzJrSMxQZ7j9)
+
+
+
 **Alphabetic OCR with TensorFlow**
 
 This project implements an Optical Character Recognition (OCR) model using TensorFlow and Keras that recognizes single alphabets (a-z).
