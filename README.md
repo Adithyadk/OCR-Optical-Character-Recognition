@@ -58,7 +58,7 @@ This is a basic example of an OCR model for alphabets. Here are some ideas for f
 * Implement techniques for handling noise and distortions in the images.
 * Increase the model complexity for improved accuracy. 
 
-I hope this README provides a comprehensive overview of your project!
+
 
 ## Key Features
 
@@ -77,5 +77,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-I hope this README provides a comprehensive overview of your project!
+### I hope this README provides a comprehensive overview of your project!
 
