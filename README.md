@@ -10,7 +10,6 @@ OCR systems have a wide range of applications, including document digitization, 
 ![Alt text](https://miro.medium.com/v2/resize:fit:750/format:webp/0*vb72NzJrSMxQZ7j9)
 
 
-### Introduction
 A convolutional neural network (CNN), is a network architecture for deep learning which learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects. They can also be quite effective for classifying non-image data such as audio, time series, and signal data.
 
 
