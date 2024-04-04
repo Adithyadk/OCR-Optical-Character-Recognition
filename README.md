@@ -7,7 +7,7 @@ This project implements an Optical Character Recognition (OCR) system using Conv
 OCR systems have a wide range of applications, including document digitization, text extraction from images, and handwriting recognition. This project focuses specifically on recognizing alphabets, providing a foundation that can be extended to more complex character recognition tasks.
 
 ## Convolutional Neural Networks (CNN) — Architecture Explained
-![Alt text]([https://cdn.example.com/image_name.png](https://miro.medium.com/v2/resize:fit:750/format:webp/0*vb72NzJrSMxQZ7j9))
+![Alt text](https://cdn.example.com/image_name.png](https://miro.medium.com/v2/resize:fit:750/format:webp/0*vb72NzJrSMxQZ7j9)](https://miro.medium.com/v2/resize:fit:750/format:webp/0*vb72NzJrSMxQZ7j9)
 
 **Alphabetic OCR with TensorFlow**
 
