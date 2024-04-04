@@ -12,6 +12,9 @@ OCR systems have a wide range of applications, including document digitization, 
 
 ### Introduction
 A convolutional neural network (CNN), is a network architecture for deep learning which learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects. They can also be quite effective for classifying non-image data such as audio, time series, and signal data.
+
+
+
 ![image](https://github.com/Adithyadk/OCR-Optical-Character-Recognition/assets/114129263/5216ec35-2fe4-4528-9e4a-c2a3fb0f1913)
 
 ### Kernel or Filter or Feature Detectors
@@ -164,5 +167,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-### I hope this README provides a comprehensive overview of your project!
+### I hope this README provides a comprehensive overview of the project!
 
